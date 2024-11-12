@@ -1,5 +1,5 @@
 # Seasonal dynamics and factors shaping microbiomes in freshwater finfish earthen aquaculture ponds in Bangladesh
-Sanjit C. Debnath, Dominique L. Chaput1, Jamie McMurtrie, Ashley Bell, Ben Temperton, Chadag V. Mohan, Md. M. Alam, Neaz. A. Hasan, Mohammad. M. Haque, David Bass, Charles R. Tyler
+Sanjit C. Debnath, Dominique L. Chaput, Jamie McMurtrie, Ashley Bell, Ben Temperton, Chadag V. Mohan, Md. M. Alam, Neaz. A. Hasan, Mohammad. M. Haque, David Bass, Charles R. Tyler
 
 # Abstract 
 Background: The pondwater microbiome is believed to play a key role in fish health, including shaping mucosal surface microbiomes that help to protect against disease. How different physiochemical features relating to season, geographical locations, as well as crop species shape the pond water microbiome in the finfish aquaculture system is not well established. Pangasius (Pangasianodon hypophthalmus) and tilapia (Oreochromis niloticus) are some of the most widely farmed fish species and disease is a major impediment to the expansion of their production. We applied 16S and 18S metabarcoding to assess how pond physicochemistry and geographical location shape microbiomes in pangasius and tilapia aquaculture earthen ponds in Bangladesh.
