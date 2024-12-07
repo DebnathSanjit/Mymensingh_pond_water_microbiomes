@@ -10,4 +10,4 @@ Conclusion: Our findings demonstrate that microbial communities in the pangasius
 This work was funded by the BBSRC/Newton Fund project (BB/N00504X/1). SCD was supported by University of Exeter with partners Cefas and the CGIAR Research Program on Fish Agri-Food Systems (FISH) led by WorldFish. Sequencing was performed at the Exeter Sequencing Service, using equipment funded by the Wellcome Trust Institutional Strategic Support Fund (WT097835MF), Wellcome Trust Multi-User Equipment Award (WT101650MA) and BBSRC LOLA award (BB/K003240/1). 
 
 # How to regenerate this repository
-The 16S and 18S sequencing raw data were deposited in the European Nucleotide Archive (ENA) under BioProject accession number PRJEB82362. The raw reads, final ASV tables, and phyloseq object will be made publicly available upon publication of this work. 
+The 16S and 18S sequencing raw data were deposited in the European Nucleotide Archive (ENA) under BioProject accession number PRJEB82362 and are publically available. The final ASV tables and phyloseq object will be made publicly available upon publication of this work. 
