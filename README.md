@@ -8,6 +8,11 @@ Results: Planctomycetota, Pseudomonadota and Actinomycetota were the dominant ba
 
 Conclusion: Our findings demonstrate that microbial communities in pangasius and tilapia aquaculture systems in Bangladesh are shaped by season, geographical location, crop species, as well as effects from water physicochemistry. Our results provide insights into the dynamic nature and environmental influences on water microbiomes that may be applied for use in pond management for improving aquaculture productivity and enhancement of overall fish health. 
 
+# Graphical Abstract
+![Graphical Abstract](https://github.com/user-attachments/assets/a5b0444f-4c61-4456-a50a-159439619a31)
+
+Created with BioRender.com
+
 # Funding
 This work was funded by the BBSRC/Newton Fund project (BB/N00504X/1). SCD was supported by University of Exeter with partners Cefas and the CGIAR Research Program on Fish Agri-Food Systems (FISH) led by WorldFish. Sequencing was performed at the Exeter Sequencing Service, using equipment funded by the Wellcome Trust Institutional Strategic Support Fund (WT097835MF), Wellcome Trust Multi-User Equipment Award (WT101650MA) and BBSRC LOLA award (BB/K003240/1). 
 
