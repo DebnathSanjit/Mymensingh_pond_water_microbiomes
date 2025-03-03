@@ -11,7 +11,7 @@ Conclusion: Our findings demonstrate that microbial communities in pangasius and
 # Graphical Abstract
 ![Graphical Abstract](https://github.com/user-attachments/assets/a5b0444f-4c61-4456-a50a-159439619a31)
 
-Created with BioRender.com
+Created in BioRender. Debnath, S. (2025) https://BioRender.com/o79t679
 
 # Funding
 This work was funded by the BBSRC/Newton Fund project (BB/N00504X/1). SCD was supported by University of Exeter with partners Cefas and the CGIAR Research Program on Fish Agri-Food Systems (FISH) led by WorldFish. Sequencing was performed at the Exeter Sequencing Service, using equipment funded by the Wellcome Trust Institutional Strategic Support Fund (WT097835MF), Wellcome Trust Multi-User Equipment Award (WT101650MA) and BBSRC LOLA award (BB/K003240/1). 
